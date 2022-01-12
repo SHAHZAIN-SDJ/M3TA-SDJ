@@ -54,7 +54,7 @@ $ python2 run.py
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/HATERZKAABUUGZAINI2)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/sdj/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923417264556?text=Asalamualaikum+bro)
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/SHAHZAIN-SDJ/count.svg" />
+ <img src="https://profile-counter.glitch.me/SHAHZAIN-SDJ/M3TA-SDJcount.svg" />
 </p>
 ##### Notice Me : Please SUBSCRIBE OUR YOUTUBE 
 LINK:https://www.youtube.com/channel/UCgg2SsDgxcKQm-a4QLqCvuA
