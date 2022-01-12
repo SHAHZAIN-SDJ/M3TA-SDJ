@@ -36,10 +36,12 @@ $ termux-setup-storage
 $ apt update 
 $ apt upgrade
 $ pkg install python2
+$ pkg install figlet
 $ pkg install git
 $ git clone https://github.com/SHAHZAIN-SDJ/M3TA-SDJ
 $ pip2 install requests bs4
 $ pip2 install futures
+$ pip2 install lolcat
 ```
 #### Run script
 ```bash
